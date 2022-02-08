@@ -12,5 +12,5 @@ Gabriel Duete
 Samuel Vitor
   @the_samuel_vitor
 
-Projeto realizado como trabalho final para a disciplina Algoritmos e Programação II - IFCE Crato.
+Projeto realizado como trabalho final para a disciplina Algoritmos e Programação II - 2° Semestre - IFCE Crato.
 Foi utilizado a linguagem Python e o Tkinter para a interface gráfica, além da matplotlib para criação do gráfico.
