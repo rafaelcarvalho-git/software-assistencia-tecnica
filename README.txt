@@ -1,7 +1,12 @@
-# SoftwareAssistenciaTecnica
+######## Projeto Algoritmos e Programação II ########
+
 Sistema de Gerenciamento de Assistência Técnica
 
-Sistema voltado para Assistências Técnicas de manutenção e conserto de computadores, notebooks e celulares.
+Software voltado para Assistências Técnicas de manutenção e conserto de computadores, notebooks e celulares.
+  --Cadastra e lista clientes.
+  --Inicia, lista e conclui serviços.
+  --Exibe gráfico de lucros por mês.
+  --Lista quantidade de clientes, serviços e lucro total.
 
 Desenvolvido por:
 
